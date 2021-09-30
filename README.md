@@ -2,10 +2,7 @@
 - 👀 I’m interested in Solving Problem with programming languange.
 - 🌱 I’m currently learning Golang in Microsystem Function :D
 - 💞️ I’m looking to collaborate on solving some algorithm with programming languange >_0
-- 📫 How to reach me ...
--- Line
--- Facebook
--- Instagram
+
 
 <!---
 xantabdoc/xantabdoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
